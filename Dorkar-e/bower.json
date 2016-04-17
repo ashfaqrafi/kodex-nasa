@@ -1,0 +1,27 @@
+{
+  "name": "project1",
+  "description": "new",
+  "main": "index.js",
+  "authors": [
+    "rafi"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "p1"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "fontawesome#^4.5.0"
+  }
+}

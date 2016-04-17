@@ -1,0 +1,184 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.floatright{
+    float: right;
+}
+
+.floatleft{
+    float: left;
+}
+
+body, html {
+  min-height: 100%;
+}
+
+.header-area{
+    background-color:#87509C
+}
+.menu ul li a{
+    color:#fff;
+    font-size:20px;
+    text-transform: uppercase;
+}
+
+.header-content{
+    padding-top: 100px
+}
+.header-content p{
+    margin-bottom: 30px;
+
+    font-size:40px;
+    color:#fff;
+    font-weight:bold;
+}
+
+.logo h2{
+    color: #fff;
+}
+
+.howworks{
+    background-color: #17C2A4;
+}
+
+.whatis{
+    text-align: center;
+}
+
+.whatis{
+    margin-bottom: 20px;
+}
+
+.whatis p{
+    font-size: 20px;
+}
+
+.whatis h2{
+    margin-bottom: 20px;
+}
+
+.howworks--rightbox{
+    margin-bottom: 20px;
+}
+
+.howworks__speech{
+    font-size: 20px;
+}
+
+.howworks--title{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.map--title{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.maparea{
+    margin-bottom: 20px;
+}
+
+.last_footer{
+    text-align: center;
+    font-size: 16px;
+}
+
+.footer_area{
+    font-size: 17px;
+}
+
+.footer_area h4{
+    font-size: 23px;
+
+    text-align: center;
+}
+
+.footer_area a{
+    color: yellow;
+}
+
+.last_footer a{
+    color: yellow;
+}
+
+.last_footer .fa{
+    color: red;
+}
+
+.fa{
+    font-size: 30px;
+}
+
+.footer{
+    background-color: #3c5499;
+    color: #fff;
+}
+
+.us p{
+    text-align: center;
+}
+
+.item_area{
+    margin-bottom: 20px;
+}
+
+.drop_btn{
+    margin-bottom: 20px;
+}
+
+.push_button{
+    color: #fff;
+    font-size: 20px;
+    background-color: green;
+}
+
+.finder{
+    background-color: red;
+    color: #fff;
+    font-size: 20px;
+}
+
+.finder_menu{
+    background-color: red;
+    color: #fff;
+    font-size: 20px;
+}
+
+.navbar-brand{
+    padding: 0px;
+}
+
+.nav > li > a:hover{
+    background-color: blue;
+}
+
+.nav > li > a:focus{
+    background-color: blue;
+}
+
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus{
+    background-color: blue;
+}
+
+.sign{
+    background-color: blue;
+}
+
+.map--right ul {
+    height: 425px;
+    overflow: auto;
+    overflow-y: scroll;
+}
+
+.follow{
+    position: relative;
+}
+
+.icons{
+    position: absolute;
+    top: 200%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
